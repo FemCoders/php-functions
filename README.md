@@ -4,6 +4,7 @@
 
 ### Introducción
 Este es un ejercicio básico de PHP para aprender a hacer funciones, empleando condicionales, bucles y operadores. Dentro de la carpeta src se encuentran 3 archivos con una serie de instrucciones que te permitirá pasar los tests que se encuentran en la carpeta tests, dentro de cada archivo de test están las aserciones que queremos que pasen cuando se ejecuten las funciones que tú vas a escribir. Será necesario que instales phpunit con composer para poder ejecutar el script que te permitirá correr el test de cada archivo. Pasa el test y mira la terminal que te dirá cuál es el error, y así, puedas escribir correctamente tu código. El objetivo será que puedas pasar los tests de los 3 archivos.
+* Para más información sobre operadores, funciones, condicionales y bucles abre el archivo index.php
 
 ### Instrucciones
 1. git clone <repositorio> (el proyecto deberá estar dentro de la carpeta htdocs de xampp o mamp).
@@ -26,6 +27,7 @@ Este es un ejercicio básico de PHP para aprender a hacer funciones, empleando c
 
 ### Introduction
 This is a basic PHP exercise to learn how to make functions, using conditionals, loops, and operators. Inside the src folder there are 3 files with a series of instructions that will allow you to pass the tests found in the tests folder, inside each test file are the assertions that we want to pass when the functions that you write are executed. You will need to install phpunit with composer in order to run the script that will allow you to run the test for each file. Pass the test and see the console that will tell you what the error is, so you can write your code correctly. The objective will be that you can pass the tests of the 3 files.
+* For mor information about operators, functions, conditional statements and loops, open the index.php file.
 
 ### Instructions
 1. git clone <repository> (the folder has to be inside the htdocs folder of xampp or mamp).  
