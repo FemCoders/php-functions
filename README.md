@@ -27,7 +27,7 @@ Este es un ejercicio básico de PHP para aprender a hacer funciones, empleando c
 
 ### Introduction
 This is a basic PHP exercise to learn how to make functions, using conditionals, loops, and operators. Inside the src folder there are 3 files with a series of instructions that will allow you to pass the tests found in the tests folder, inside each test file are the assertions that we want to pass when the functions that you write are executed. You will need to install phpunit with composer in order to run the script that will allow you to run the test for each file. Pass the test and see the console that will tell you what the error is, so you can write your code correctly. The objective will be that you can pass the tests of the 3 files.
-* For mor information about operators, functions, conditional statements and loops, open the index.php file.
+* For more information about operators, functions, conditional statements and loops, open the index.php file.
 
 ### Instructions
 1. git clone <repository> (the folder has to be inside the htdocs folder of xampp or mamp).  
